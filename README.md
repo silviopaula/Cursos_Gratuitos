@@ -1,7 +1,7 @@
 # Cursos gratuítos com certificado
 
 ### Python Fundamentos Para Análise de Dados                            
-[<img src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2021/06/Python-Fundamentos-Para-Analise-de-Dados-3.0.png?fit=2190%2C1206&ssl=1"  width="400" height="250"> target="_blank"](https://www.datascienceacademy.com.br/cursosgratuitos/)  
+[<img src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2021/06/Python-Fundamentos-Para-Analise-de-Dados-3.0.png?fit=2190%2C1206&ssl=1"  width="400" height="250"  target="_blank">](https://www.datascienceacademy.com.br/cursosgratuitos/)  
 **Organização**: *Data Science Academy*                            
 **Carga Horária**: *60 horas*                             
 **Idioma**: *Português*              
