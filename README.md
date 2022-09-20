@@ -84,7 +84,6 @@ ____________________________
 **Certificado**: *Sim*                                  
 **Descrição**: *Este curso mergulha nos fundamentos da ciência da computação em termos de variáveis, condicionais, loops e funções usando a sintaxe de programação do Python. Aprenda como aplicar esta linguagem para resolver diversos problemas e utilizar seus frameworks/bibliotecas/pacotes para diferentes contextos.* 
 
-
 ____________________________
 ### Introdução à Lei Brasileira de Proteção de Dados Pessoais (LGPD)                         
 [<img src="https://cdn.evg.gov.br/cursos/153_EVG/banner.svg"  width="400" height="250">](https://www.escolavirtual.gov.br/curso/153/)  
@@ -308,15 +307,6 @@ ____________________________
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
 **Descrição**: *Aprenda a segmentar seus códigos-fonte por meio de Branches no GitHub, um dos principais hosts da tecnologia Git da atualidade. Para isso, o expert explora os conceitos de Branches e Commits, apresentando toda fundamentação e boas práticas para que você possa organizar o seu portfolio de projetos de forma ainda mais efetiva e organizada.*
-
-___________________________
-### Introdução ao Linux                  
-[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3630/introducao-ao-linux)  
-**Organização**: *Tecpop Minas*                            
-**Carga Horária**: *20h horas*                             
-**Idioma**: Português  
-**Certificado**: *Sim*                                      
-**Descrição**: *Aplicar conhecimento adquirido por meio das principais ferramentas do Linux, na criação de arquivos, edição de textos, utilização de acessórios, entre outras funcionalidades.*
 
 ___________________________
 ### Linux: A introdução ao sistema operacional                  
