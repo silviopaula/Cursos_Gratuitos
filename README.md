@@ -157,3 +157,12 @@ ____________________________
 **Descrição**: *Neste curso, assumimos que você já sabe projetar e desenvolver programas mais complexos em Java, graças às boas práticas e princípios orientados a objetos, TDD e conceitos avançados de Java aplicados à Web e banco de dados exercitados nos cursos anteriores; mas você talvez não se sinta ainda confortável em planejar e gerenciar o desenvolvimento das aplicações com base em modernas práticas de modelagem ágil.*                     
 *O objetivo deste curso é expor você às principais técnicas e princípios de desenvolvimento ágil, em especial aos que se popularizaram pela sua utilização no framework Scrum e na metodologia XP (Extreme Programming). Apresentamos o Scrum&XP, uma combinação apropriada do framework Scrum com a metodologia XP – Extreme Programming, sem no entanto afirmar que você estará aprendendo tudo sobre Scrum ou sobre XP.*       
 
+ ____________________________
+### Linguagem de Programação Python - Básico                       
+[<img src="[https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1](https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO.jpg)" width="400" height="250">](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *18h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *O objetivo deste curso é articular teoria e prática do raciocínio lógico por meio da Linguagem de Programação Python, desenvolvendo programas básicos em modo console, apresentando, de forma simples, a plataforma de desenvolvimento PyCharm.*
+
