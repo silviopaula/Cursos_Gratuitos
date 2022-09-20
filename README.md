@@ -159,7 +159,7 @@ ____________________________
 
  ____________________________
 ### Linguagem de Programação Python - Básico                       
-[<img src="[https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1](https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO.jpg)" width="400" height="250">](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)  
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)  
 **Organização**: *Fundação Bradesco*                            
 **Carga Horária**: *18h horas*                             
 **Idioma**: Português  
