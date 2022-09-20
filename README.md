@@ -239,28 +239,28 @@ ____________________________
 **Descrição**: *A Lei Geral de Proteção de Dados (LGPD) é a lei que garante a proteção aos dados pessoais de indivíduos ao redor do mundo e segue os padrões de legislações internacionais referências no tema. Trata-se da Lei Federal 13.709/2018, aprovada em agosto de 2018 e que entrou em vigor em setembro de 2020. Neste curso, você vai aprender que o tratamento de dados pessoais é muito importante para proteger os indivíduos de exposições abusivas ou desnecessárias de seus dados.*
 
 ____________________________
-### Microsoft Excel 2016 - Básico                      
-[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/microsoft-excel-2016-basico)  
+### Excel 2016 (do básico ao avançado)                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/trilhas-de-conhecimento/excel-2016-do-basico-ao-avancado)  
 **Organização**: *Fundação Bradesco*                            
 **Carga Horária**: *15h horas*                             
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
-**Descrição**: *Neste curso introdutório serão abordados temas, como formatação de planilhas e de gráficos, classificação de dados e aplicação de fórmulas e funções.*
+**Descrição**: *Introdução, intermediário e avançado em Excel 2016*
 
 ____________________________
-### Microsoft Excel 2016 - Intermediário                      
-[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario)  
+### Excel 2016 (do básico ao avançado)                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/trilhas-de-conhecimento/excel-2016-do-basico-ao-avancado)  
 **Organização**: *Fundação Bradesco*                            
-**Carga Horária**: *20h horas*                             
+**Carga Horária**: *15h horas*                             
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
-**Descrição**: *Neste curso você aprenderá a criar modelos de pastas de trabalho, usar funções e a inserir elementos gráficos em suas planilhas eletrônicas.*
+**Descrição**: *Introdução, intermediário e avançado em Excel 2016*
 
 ____________________________
-### Microsoft Excel 2016 - Avançado                     
-[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado)  
-**Organização**: *Fundação Bradesco*                            
-**Carga Horária**: *30h horas*                             
+### Desenvolvimento avançado Python com Flask e REST API                     
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3469/desenvolvimento-avancado-python-com-flask-e-rest-api)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *5h horas*                             
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
-**Descrição**: *Neste curso, você conhecerá novos recursos, como nome (utilizado em células com fórmulas), subtotal, filtro avançado, importação e exportação de dados, cenários, análise rápida, entre outros*
+**Descrição**: *Nesse curso você aprenderá sobre a framework Flask e como desenvolver REST API através dela.*
