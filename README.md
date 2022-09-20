@@ -194,15 +194,6 @@ ____________________________
 **Descrição**: *Os assuntos abordados neste curso vão desde noções de técnicas de modelagem de dados (com destaque aos bancos de dados relacionais) até aspectos conceituais, lógicos e físicos de um banco de dados*
 
 ____________________________
-### Implementando Banco de Dados                      
-[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/implementando-banco-de-dados)  
-**Organização**: *Fundação Bradesco*                            
-**Carga Horária**: *15h horas*                             
-**Idioma**: Português  
-**Certificado**: *Sim*                                      
-**Descrição**: *Os assuntos abordados neste curso vão desde noções de técnicas de modelagem de dados (com destaque aos bancos de dados relacionais) até aspectos conceituais, lógicos e físicos de um banco de dados*
-
-____________________________
 ### Introdução à Análise de Dados - Microsoft Power BI                      
 [<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/introducao-a-analise-de-dados-microsoft-power-bi)  
 **Organização**: *Fundação Bradesco*                            
@@ -229,3 +220,47 @@ ____________________________
 **Certificado**: *Sim*                                      
 **Descrição**: *Neste curso, você aprenderá a preparar dados para análise!*
 
+____________________________
+### Fundamentos de Lógica de Programação                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *15h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Este curso aborda o conceito de lógica, lógica de programação e o pensamento dedutivo e matemático que embasa a construção de instruções lógicas corretas. Para isso, são apresentados os fundamentos básicos da lógica da programação e as principais técnicas para o desenvolvimento de algoritmos: descrição narrativa, fluxograma e pseudocódigo.*
+
+____________________________
+### Lei Geral de Proteção de Dados (LGPD)                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/lei-geral-de-protecao-de-dados-lgpd)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *A Lei Geral de Proteção de Dados (LGPD) é a lei que garante a proteção aos dados pessoais de indivíduos ao redor do mundo e segue os padrões de legislações internacionais referências no tema. Trata-se da Lei Federal 13.709/2018, aprovada em agosto de 2018 e que entrou em vigor em setembro de 2020. Neste curso, você vai aprender que o tratamento de dados pessoais é muito importante para proteger os indivíduos de exposições abusivas ou desnecessárias de seus dados.*
+
+____________________________
+### Microsoft Excel 2016 - Básico                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/microsoft-excel-2016-basico)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *15h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso introdutório serão abordados temas, como formatação de planilhas e de gráficos, classificação de dados e aplicação de fórmulas e funções.*
+
+____________________________
+### Microsoft Excel 2016 - Intermediário                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *20h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso você aprenderá a criar modelos de pastas de trabalho, usar funções e a inserir elementos gráficos em suas planilhas eletrônicas.*
+
+____________________________
+### Microsoft Excel 2016 - Avançado                     
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *30h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso, você conhecerá novos recursos, como nome (utilizado em células com fórmulas), subtotal, filtro avançado, importação e exportação de dados, cenários, análise rápida, entre outros*
