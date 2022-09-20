@@ -125,7 +125,6 @@ ____________________________
 *- Desenvolver uma visão geral do que é ciência de dados e das suas principais etapas;*               
 *- Conhecer o ferramental matemático e computacional tipicamente empregado em cada uma das etapas de forma simples e objetiva.*           
  
-
 ____________________________
 ### Tópicos em Machine Learning                        
 [<img src="https://portal.fgv.br/sites/portal.fgv.br/files/imgopengraph-logofgv.jpg" width="400" height="250">](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/topicos-em-machine-learning)  
@@ -233,16 +232,7 @@ ____________________________
 ### Excel 2016 (do básico ao avançado)                      
 [<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/trilhas-de-conhecimento/excel-2016-do-basico-ao-avancado)  
 **Organização**: *Fundação Bradesco*                            
-**Carga Horária**: *15h horas*                             
-**Idioma**: Português  
-**Certificado**: *Sim*                                      
-**Descrição**: *Introdução, intermediário e avançado em Excel 2016*
-
-____________________________
-### Excel 2016 (do básico ao avançado)                      
-[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/trilhas-de-conhecimento/excel-2016-do-basico-ao-avancado)  
-**Organização**: *Fundação Bradesco*                            
-**Carga Horária**: *15h horas*                             
+**Carga Horária**: *65h horas*                             
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
 **Descrição**: *Introdução, intermediário e avançado em Excel 2016*
