@@ -113,15 +113,6 @@ ____________________________
 **Descrição**: *O curso abordará a importância da utilização de dados analíticos pelos gestores e servidores públicos tomadores de decisão, bem como a forma de obtenção e utilização de dados estratégicos.* 
 
 ____________________________
-### Scrum no Contexto do Serviço Público                        
-[<img src="https://cdn.evg.gov.br/cursos/395_EVG/imagem_curso_395.png" width="400" height="250">](https://www.escolavirtual.gov.br/curso/395/)  
-**Organização**: *Enap*                            
-**Carga Horária**: *15 horas*                             
-**Idioma**: Português  
-**Certificado**: *Sim*                                  
-**Descrição**: *A partir da compreensão de que o cenário brasileiro e as tendências em outros países apontam para o permanente aprimoramento do uso que se faz das novas tecnologias para a resolução de problemas concretos que melhorem a vida do cidadão, o curso se propõe a preparar servidores públicos para a aplicação do framework do Scrum no gerenciamento de projetos e na execução de ações públicas.* 
-
-____________________________
 ### Introdução à Ciência de Dados                        
 [<img src="https://portal.fgv.br/sites/portal.fgv.br/files/imgopengraph-logofgv.jpg" width="400" height="250">](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados)  
 **Organização**: *FGV*                            
