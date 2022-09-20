@@ -146,3 +146,14 @@ ____________________________
 *Você irá desenvolver:*              
 *- ampla visão sobre Machine  Learning;*           
 *- conhecimento sobre SVM (support  vector  machines) e  compreensão sobre métodos de aprendizagem não supervisionada.* 
+
+____________________________
+### Princípios de Desenvolvimento Ágil de Software                        
+[<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" width="400" height="250">](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software)  
+**Organização**: *Coursera*                            
+**Carga Horária**: *17h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso, assumimos que você já sabe projetar e desenvolver programas mais complexos em Java, graças às boas práticas e princípios orientados a objetos, TDD e conceitos avançados de Java aplicados à Web e banco de dados exercitados nos cursos anteriores; mas você talvez não se sinta ainda confortável em planejar e gerenciar o desenvolvimento das aplicações com base em modernas práticas de modelagem ágil.*                     
+*O objetivo deste curso é expor você às principais técnicas e princípios de desenvolvimento ágil, em especial aos que se popularizaram pela sua utilização no framework Scrum e na metodologia XP (Extreme Programming). Apresentamos o Scrum&XP, uma combinação apropriada do framework Scrum com a metodologia XP – Extreme Programming, sem no entanto afirmar que você estará aprendendo tudo sobre Scrum ou sobre XP.*       
+
