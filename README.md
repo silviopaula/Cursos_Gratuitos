@@ -264,3 +264,210 @@ ____________________________
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
 **Descrição**: *Nesse curso você aprenderá sobre a framework Flask e como desenvolver REST API através dela.*
+
+____________________________
+### Fundamentos de Python                    
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3523/fundamentos-de-python)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *20h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Você será capaz de: Aplicar a lógica proposicional em programação; Usar o Python para solucionar as dificuldades do dia-a-dia; Resolver problemas usando técnicas orientadas por dados ; Criar diversos programas no Python ; Usar com propriedade as principais estruturas de dados do Python. Independentemente se você Não sabe o que é Python*
+
+____________________________
+### Introdução à programação com Python                    
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3437/introducao-a-programacao-com-python)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *8h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *O curso trará todo o embasamento da linguagem Python, quando e onde é mais indicado aplicá-la.*
+
+____________________________
+### Programação                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3545/programaacao) 
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *40h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Fique por dentro dos conceitos básicos do mundo da computação e, ainda, desenvolva a sua capacidade para entender a lógica de programação e da criação de aplicativos através da ferramenta APP Inventor, do MIT.*
+
+____________________________
+### Configuração e Deploy na nuvem Microsoft Azure Cloud                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3452/configuracao-e-deploy-na-nuvem-microsoft-azure-cloud)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aprenda nesse curso a fazer um deploy ou uma aplicação na Azure Cloud e as diferenças entre os serviços em nuvem IaaS, PaaS e DbaaS.*
+
+____________________________
+### Introdução a orquestração de contêineres com Docker                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3457/introducao-a-orquestracao-de-conteineres-com-docker)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *4h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Nesse curso aprenderemos sobre o Docker, um projeto OpenSource que facilita a criação de ambientes isolados com container.*
+
+____________________________
+### Introdução ao Git e ao GitHub                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3574/introducao-ao-git-e-ao-github)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *5h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.*
+
+____________________________
+### Trabalhando com Branches no Github                 
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3582/trabalhando-com-branches-no-github)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *4h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aprenda a segmentar seus códigos-fonte por meio de Branches no GitHub, um dos principais hosts da tecnologia Git da atualidade. Para isso, o expert explora os conceitos de Branches e Commits, apresentando toda fundamentação e boas práticas para que você possa organizar o seu portfolio de projetos de forma ainda mais efetiva e organizada.*
+
+___________________________
+### Introdução ao Linux                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3630/introducao-ao-linux)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *20h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aplicar conhecimento adquirido por meio das principais ferramentas do Linux, na criação de arquivos, edição de textos, utilização de acessórios, entre outras funcionalidades.*
+
+___________________________
+### Linux: A introdução ao sistema operacional                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3489/linux-a-introducao-ao-sistema-operacional)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *10h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aprenda como trabalhar com o sistema operacional Linux, um dos mais utilizados do mundo e muito popular entre os desenvolvedores. Ele pode ser usado em desktops, servidores, smartphones e tablets.*
+
+___________________________
+### Introdução ao Linux                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3630/introducao-ao-linux)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *20h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aprenda como trabalhar com o sistema operacional Linux, um dos mais utilizados do mundo e muito popular entre os desenvolvedores. Ele pode ser usado em desktops, servidores, smartphones e tablets.*
+
+____________________________
+### Conceitos e melhores práticas com bancos de dados PostgreSQL                  
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3448/conceitos-e-melhores-praticas-com-bancos-de-dados-postgresql)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *9h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Esse curso ensinará como trabalhar com PostgreSQL, um gerenciador de banco de dados relacional.*
+
+____________________________
+### Modelando um banco de dados na prática com SQL SERVER                 
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3494/modelando-um-banco-de-dados-na-pratica-com-sql-server)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso, você verá na prática como modelar um banco de dados com SQL SERVER, criando desde as tabelas relacionadas do projeto, até a implementação da interface.*
+
+____________________________
+### MySQL - Consultas com Join                 
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3495/mysql-consultas-com-join)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aprenda como criar consultas relacionando os dados das suas tabelas e como filtrar suas informações.*
+
+____________________________
+### MySql - Explorando relacionamentos com workbench                 
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3496/mysql-explorando-relacionamentos-com-workbench)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Entenda de maneira um pouco mais aprofundada os relacionamentos e como criar consultas mais poderosas na hora de resgatar seus dados.*
+
+____________________________
+### MySql - Trabalhando com as suas primeiras tabelas                
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3497/mysql-trabalhando-com-as-suas-primeiras-tabelas)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Crie suas primeiras tabelas no ambiente MySQL e aprenda como gerenciar a relação entre elas.*
+
+____________________________
+### SQL SERVER - Criando suas primeiras consultas                
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3579/sql-server-criando-suas-primeiras-consultas)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *4h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Aprenda desde a instalação e configuração do ambiente com SQL Server e realize suas primeiras consultas SQL na prática*
+
+____________________________
+### Análise de Dados com ferramentas de Business Intelligence                
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3544/analise-de-dados-com-ferramentas-de-business-intelligence)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *60h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Essa formação tem como objetivo capacitar os participantes na criação de relatórios e indicadores utilizando ferramentas de business Intelligence, como Power BI, Google Data Studio e Qlik Sense.*
+
+____________________________
+### Fundamentos de Power BI                
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3528/fundamentos-de-power-bi)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *4h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Você será capaz de: Levar o conceito de Business Intelligence para sua empresa, proporcionando inovação da forma de análise de dados; Compreender a interface do Power BI, conhecendo abas, ferramentas e botões; Importar, tratar e salvar uma base de dados de outros softwares, como o Excel; Tratar informações, relacionar tabelas e bases de dados; Criar relatórios para visualizar e analisar informações de maneira ágil*
+
+____________________________
+### Introdução prática a computação em nuvem usando AWS              
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3440/introducao-pratica-a-computacao-em-nuvem-usando-aws)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Potencialize suas soluções usando a Amazon Web Services (AWS), uma das plataformas de computação em nuvem mais relevantes do mercado. Nesse contexto, o expert explora os conceitos de API Gateway, Serverless e NoSQL na prática, por meio de serviços totalmente gerenciados na AWS.*
+
+____________________________
+### BrOffice              
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3624/broffice)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *30h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Capacitar os participantes do curso a utilizar as ferramentas do BrOffice.org de modo que ele seja capaz de editar textos, fazer planilhas eletrônicas, apresentações e desenhos.*
+
+____________________________
+### Introdução ao Agile Scrum              
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3554/introducao-ao-agile-scrum)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *3h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Você será capaz de: Saber princípios e motivos para utilizar e Scrum; Entender os complementos do framework Agile; Entender os eventos e artefatos do Scrum; Saber como implantar o Scrum e por onde você deve começar; Se preparar para obter certificações Scrum, consolidando seu conhecimento através de exercícios.* práticos.*
+
+____________________________
+### Projetos ágeis com SCRUM             
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3506/projetos-ageis-com-scrum)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia.*
+
+____________________________
+### Preparatório para Certificação Agile Scrum Foundation EXIN             
+[<img src="https://programassociaisbr.com.br/wp-content/uploads/2021/12/TECTOP-Cursos-e-Inclusao-Digital-MG-300x158.jpg" width="400" height="250">](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3553/preparatorio-para-certificacao-agile-scrum-foundation-exin)  
+**Organização**: *Tecpop Minas*                            
+**Carga Horária**: *2h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Você será capaz de: Compreender os fundamentos essenciais da gestão ágil e do método Scrum; Entender os papeis do Scrum Master, Product Owner e Time de Desenvolvimento; Entender e colocar em prática os eventos e artefatos Scrum; Compreender conceitos avançados do Scrum; Saber como se preparar para o exame de certificação Agile Scrum Foundation da EXIN.*
