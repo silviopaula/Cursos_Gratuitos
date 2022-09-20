@@ -167,6 +167,14 @@ ____________________________
 **Descrição**: *O objetivo deste curso é articular teoria e prática do raciocínio lógico por meio da Linguagem de Programação Python, desenvolvendo programas básicos em modo console, apresentando, de forma simples, a plataforma de desenvolvimento PyCharm.*
 
 ____________________________
+### Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python                       
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/desenvolvimento-orientado-a-objetos-utilizando-a-linguagem-python)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *10h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso, vamos apresentar conceitos mais avançados de programação, incluindo uma introdução ao desenvolvimento de projetos profissionais utilizando a linguagem Python com o conceito de orientação a objetos, por meio da IDE PyCharm.*
+____________________________
 ### Modelagem de Dados                       
 [<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/modelagem-de-dados)  
 **Organização**: *Fundação Bradesco*                            
