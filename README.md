@@ -174,6 +174,7 @@ ____________________________
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
 **Descrição**: *Neste curso, vamos apresentar conceitos mais avançados de programação, incluindo uma introdução ao desenvolvimento de projetos profissionais utilizando a linguagem Python com o conceito de orientação a objetos, por meio da IDE PyCharm.*
+
 ____________________________
 ### Modelagem de Dados                       
 [<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/modelagem-de-dados)  
@@ -182,4 +183,49 @@ ____________________________
 **Idioma**: Português  
 **Certificado**: *Sim*                                      
 **Descrição**: *Este curso aborda, mais detalhadamente, como realizar a modelagem de dados e quais técnicas estão envolvidas, incluindo, ainda, uma introdução a respeito de banco de dados e alguns temas, como a teoria relacional, a normalização, o autorrelacionamento, a cardinalidade, minimundo, abstração, entre outros conceitos.*
+
+____________________________
+### Implementando Banco de Dados                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/implementando-banco-de-dados)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *15h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Os assuntos abordados neste curso vão desde noções de técnicas de modelagem de dados (com destaque aos bancos de dados relacionais) até aspectos conceituais, lógicos e físicos de um banco de dados*
+
+____________________________
+### Implementando Banco de Dados                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/implementando-banco-de-dados)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *15h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Os assuntos abordados neste curso vão desde noções de técnicas de modelagem de dados (com destaque aos bancos de dados relacionais) até aspectos conceituais, lógicos e físicos de um banco de dados*
+
+____________________________
+### Introdução à Análise de Dados - Microsoft Power BI                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/introducao-a-analise-de-dados-microsoft-power-bi)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *5h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Você verá como o conjunto de ferramentas e serviços do Power BI é usado por um analista de dados para contar uma história convincente por meio de relatórios e painéis, para que decisões confiáveis possam ser tomadas.*
+
+____________________________
+### Modelando Dados no Power BI                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/modelando-dados-no-power-bi)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *11h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso, você verá que o sucesso no Power BI começa com um excelente modelo de dados!*
+
+____________________________
+### Preparando Dados para Análise - Microsoft Power BI                      
+[<img src="https://clickpetroleoegas.com.br/wp-content/uploads/2021/11/CURSO-860x484.jpg" width="400" height="250">](https://www.ev.org.br/cursos/preparando-dados-para-analise-microsoft-power-bi)  
+**Organização**: *Fundação Bradesco*                            
+**Carga Horária**: *7h horas*                             
+**Idioma**: Português  
+**Certificado**: *Sim*                                      
+**Descrição**: *Neste curso, você aprenderá a preparar dados para análise!*
 
