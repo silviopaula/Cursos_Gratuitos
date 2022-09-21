@@ -19,6 +19,8 @@
 [Power BI - Básico](https://www.pensarcursos.com.br/curso/powerbi) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 20 horas  
 [Power BI - Intermediário](https://www.pensarcursos.com.br/curso/power-bi-intermediario) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
 [Power BI - Avançado](https://www.pensarcursos.com.br/curso/power-bi-avancado) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
+[Power BI - com Machine Learning Gratuito](https://didatica.tech/curso-de-power-bi-basico-para-machine-learning-e-ciencia-de-dados-gratuito/) | [Didatica Tech](https://didatica.tech) | ? horas  
+
 [Tableau - Introdução a Tableau 2020](https://www.eia.ai/introducao-a-tableau-2020-facil-e-simples) | [EIA](https://www.eia.ai/) | 5 horas   
 [Google Data Studio](https://www.pensarcursos.com.br/curso/data-studio) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
 [Análise de Dados com ferramentas de Business Intelligence](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3544/analise-de-dados-com-ferramentas-de-business-intelligence) | [Tecpop Minas](https://www.tecpop.mg.gov.br/inicio) | 60 horas   
@@ -148,6 +150,7 @@
 [Python](https://www.pensarcursos.com.br/curso/python) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 50 horas  
 [Aprendendo com Python](https://www.escolavirtual.gov.br/curso/629/) | [Enap](https://www.escolavirtual.gov.br) | 20 horas  
 [Análise de Dados com Python](https://www.idp.edu.br/openclass/analise-de-dados-com-python/) | [IDP](https://www.idp.edu.br/) | 10 horas  
+[Curso de Python online para iniciantes](https://didatica.tech/curso-de-python-online-para-iniciantes/) | [Didatica Tech](https://didatica.tech) | ? horas  
 
 
 ##  R language
@@ -160,6 +163,7 @@
 [Aprenda a programar em R –intermediário](https://www.idp.edu.br/openclass/aprenda-a-programar-em-r-intermediario/) | [IDP](https://www.idp.edu.br/) | 10 horas  
 [Aprenda data scince sem enrolação no Rstudio](https://www.idp.edu.br/openclass/aprenda-data-science-sem-enrolacao-rstudio/) | [IDP](https://www.idp.edu.br/) | 10 horas  
 [Produção de gráficos utilizando a biblioteca ggplot2](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/producao-de-graficos-utilizando-biblioteca-ggplot2) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
+[Curso de R online para iniciantes](https://didatica.tech/curso-de-r-online-para-iniciantes/) | [Didatica Tech](https://didatica.tech) | ? horas  
 
 
 ## Sistema Operacional
@@ -205,6 +209,11 @@
 [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) | [Coursera](https://www.coursera.org/) | 34 horas  
 [Machine Learning](https://www.pensarcursos.com.br/curso/machine-learning) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 40 horas  
 [DataOps e Implantação de Sistemas de Machine Learning](https://www.pensarcursos.com.br/curso/dataops-e-implantacao-de-sistemas-de-machine-learning) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 20 horas  
+[Curso Introdução a Machine Learning gratuito](https://didatica.tech/curso-introducao-a-machine-learning/) | [Didatica Tech](https://didatica.tech) | ? horas  
+[Curso Power BI básico com Machine Learning Gratuito](https://didatica.tech/curso-de-power-bi-basico-para-machine-learning-e-ciencia-de-dados-gratuito/) | [Didatica Tech](https://didatica.tech) | ? horas  
+[Curso de Python para Machine Learning e Ciência de Dados Gratuito](https://didatica.tech/curso-de-python-para-machine-learning-e-ciencia-de-dados-gratuito/) | [Didatica Tech](https://didatica.tech) | ? horas  
+[Curso de R para Machine Learning e Ciência de Dados Gratuito](https://didatica.tech/curso-de-r-para-machine-learning-e-ciencia-de-dados-gratuito/) | [Didatica Tech](https://didatica.tech) | ? horas  
+[Curso de TensorFlow online para iniciantes](https://didatica.tech/curso-de-tensorflow-para-iniciantes/) | [Didatica Tech](https://didatica.tech) | ? horas  
 
 
 ##  Outros Cursos
@@ -221,3 +230,9 @@
 [Introdução a Redes Complexas: medidas de centralidade](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-redes-complexas-medidas-de-centralidade) | [FGV](https://educacao-executiva.fgv.br/cursos) | 10 horas  
 [Introdução às técnicas de análise fatorial e conjunta de dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-tecnicas-de-analise-fatorial-e-conjunta-de-dados) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
 [Álgebra Linear e Ciência de Dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/algebra-linear-e-ciencia-de-dados) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
+[Curso Fundamentos de Matemática](https://didatica.tech/fundamentos-de-matematica/) | [Didatica Tech](https://didatica.tech) | ? horas  
+[Matemática para Machine Learning](https://didatica.tech/matematica-para-machine-learning-curso/) | [Didatica Tech](https://didatica.tech) | ? horas  
+
+
+
+
