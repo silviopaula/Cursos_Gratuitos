@@ -55,6 +55,7 @@
 [Lógica de Programação](https://www.pensarcursos.com.br/curso/logica-de-programacao) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 70 horas  
 [Introdução à Lógica de Programação](https://www.pensarcursos.com.br/curso/introducao-a-logica-de-programacao) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 10 horas  
 [Introdução a Algoritmos](https://www.pensarcursos.com.br/curso/introducao-a-algoritmos) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 40 horas  
+[Aprenda a programar em data science](https://www.idp.edu.br/openclass/aprenda-programar-data-science/) | [IDP](https://www.idp.edu.br/) | 10 horas  
 
 
 ## Git e GitHub
@@ -78,12 +79,19 @@
 ## Introdução à Ciência de Dados
 **Curso** | **Organização** | **Carga Horária**|
  -------- | --------------- | -----------------|
+ [Introdução à Ciência de Dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados) | [FGV](https://educacao-executiva.fgv.br/cursos) | 60 horas  
 [Introdução à Ciência de Dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados) | [FGV](https://educacao-executiva.fgv.br/rj/rio-de-janeiro/cursos/curta-media-duracao) | 60 horas   
 [Introdução à Ciência de Dados ](https://www.datascienceacademy.com.br/cursosgratuitos/) | [Data Science Academy](https://www.datascienceacademy.com.br/) |12 horas 
-[Big Data Fundamentos](https://www.datascienceacademy.com.br/cursosgratuitos/)  | [Data Science Academy](https://www.datascienceacademy.com.br/) |12 horas 
-[Inteligência Artificial Fundamentos](https://www.datascienceacademy.com.br/cursosgratuitos/) | [Data Science Academy](https://www.datascienceacademy.com.br/) | 8 horas   
-[Um Guia de Migração de Desenvolvedor para Cientista de Dados](https://www.eia.ai/um-guia-de-migracao-de-desenvolvedor-para-cientista-de-dados) | [EIA](https://www.eia.ai/) | 3 horas   
+[Big data e data analytics: uma introdução](https://www.idp.edu.br/openclass/big-data-e-data-analytics-uma-introducao/) | [IDP](https://www.idp.edu.br/) | 7.5 horas
 [Big Data e Analytics](https://www.pensarcursos.com.br/curso/big-data-e-analytics) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
+[Big Data Fundamentos](https://www.datascienceacademy.com.br/cursosgratuitos/)  | [Data Science Academy](https://www.datascienceacademy.com.br/) |12 horas 
+[Um Guia de Migração de Desenvolvedor para Cientista de Dados](https://www.eia.ai/um-guia-de-migracao-de-desenvolvedor-para-cientista-de-dados) | [EIA](https://www.eia.ai/) | 3 horas   
+[Soluções em deep learning](https://www.idp.edu.br/openclass/solucoes-em-deep-learning/) | [IDP](https://www.idp.edu.br/) | 10 horas  
+[Ciência de dados do setor público](https://www.idp.edu.br/openclass/dados-do-setor-publico/) | [IDP](https://www.idp.edu.br/) | 10 horas  
+[Data science para negócios](https://www.idp.edu.br/openclass/data-science-para-negocios/) | [IDP](https://www.idp.edu.br/) | 7.5 horas  
+[Inteligência artificial aplicada a comunicação](https://www.idp.edu.br/openclass/inteligencia-artificial-aplicada-a-comunicacao/) | [IDP](https://www.idp.edu.br/) | 5 horas  
+[Inteligência artificial: uma introdução](https://www.idp.edu.br/openclass/inteligencia-artificial-uma-introducao/) | [IDP](https://www.idp.edu.br/) | 7.5 horas 
+[Inteligência Artificial Fundamentos](https://www.datascienceacademy.com.br/cursosgratuitos/) | [Data Science Academy](https://www.datascienceacademy.com.br/) | 8 horas   
 
 
  ## Metodologias Ágeis
@@ -117,6 +125,7 @@
 [Análise de dados como suporte à tomada de decisão](https://www.escolavirtual.gov.br/curso/406/) | [Enap](https://www.enap.gov.br/pt/cursos) | 30 horas   
 [Modelagem de Dados](https://www.ev.org.br/cursos/modelagem-de-dados) | [Fundação Bradesco](https://www.ev.org.br/#cursos) | 8 horas  
 [Engenharia de Requisitos](https://www.pensarcursos.com.br/curso/engenharia-de-requisitos) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 20 horas  
+[Introdução à organização de dados para análise multivariada](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-organizacao-de-dados-para-analise-multivariada) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
 
 
 ##  NoSQL - Unstructured data
@@ -138,6 +147,7 @@
 [Python para Iniciantes: Aprenda do Zero!](https://www.eia.ai/python-para-iniciantes-aprenda-do-zero) | [EIA](https://www.eia.ai/) | 5 horas   
 [Python](https://www.pensarcursos.com.br/curso/python) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 50 horas  
 [Aprendendo com Python](https://www.escolavirtual.gov.br/curso/629/) | [Enap](https://www.escolavirtual.gov.br) | 20 horas  
+[Análise de Dados com Python](https://www.idp.edu.br/openclass/analise-de-dados-com-python/) | [IDP](https://www.idp.edu.br/) | 10 horas  
 
 
 ##  R language
@@ -146,6 +156,10 @@
 [Estatística para Iniciantes com Exemplos Práticos em R](https://www.eia.ai/estatistica-para-iniciantes-com-exemplos-praticos-em-r) | [EIA](https://www.eia.ai/) | 8 horas  
 [Fundamentos da Linguagem R com RStudio](https://www.eia.ai/fundamentos-da-linguagem-r-com-rstudio) | [EIA](https://www.eia.ai/) | 5 horas  
 [Análise de Dados em Linguagem R](https://www.escolavirtual.gov.br/curso/325/) | [Enap](https://www.escolavirtual.gov.br) | 25 horas  
+[Introdução ao R Studio](https://www.idp.edu.br/openclass/introducao-ao-r/) | [IDP](https://www.idp.edu.br/) | 9 horas  
+[Aprenda a programar em R –intermediário](https://www.idp.edu.br/openclass/aprenda-a-programar-em-r-intermediario/) | [IDP](https://www.idp.edu.br/) | 10 horas  
+[Aprenda data scince sem enrolação no Rstudio](https://www.idp.edu.br/openclass/aprenda-data-science-sem-enrolacao-rstudio/) | [IDP](https://www.idp.edu.br/) | 10 horas  
+[Produção de gráficos utilizando a biblioteca ggplot2](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/producao-de-graficos-utilizando-biblioteca-ggplot2) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
 
 
 ## Sistema Operacional
@@ -204,5 +218,6 @@
 [Construção do Conhecimento Lógico Matemático](https://www.pensarcursos.com.br/curso/construcao-do-conhecimento-logico-matematico) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 20 horas  
 [Matriz de Risco](https://www.pensarcursos.com.br/curso/matriz-de-risco) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 20 horas  
 [Noções de Google Ads](https://www.pensarcursos.com.br/curso/google-adwords) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 40 horas  
-
-
+[Introdução a Redes Complexas: medidas de centralidade](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-redes-complexas-medidas-de-centralidade) | [FGV](https://educacao-executiva.fgv.br/cursos) | 10 horas  
+[Introdução às técnicas de análise fatorial e conjunta de dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-tecnicas-de-analise-fatorial-e-conjunta-de-dados) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
+[Álgebra Linear e Ciência de Dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/algebra-linear-e-ciencia-de-dados) | [FGV](https://educacao-executiva.fgv.br/cursos) | 5 horas  
