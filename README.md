@@ -20,7 +20,6 @@
 [Power BI - Intermediário](https://www.pensarcursos.com.br/curso/power-bi-intermediario) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
 [Power BI - Avançado](https://www.pensarcursos.com.br/curso/power-bi-avancado) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
 [Power BI - com Machine Learning Gratuito](https://didatica.tech/curso-de-power-bi-basico-para-machine-learning-e-ciencia-de-dados-gratuito/) | [Didatica Tech](https://didatica.tech) | ? horas  
-
 [Tableau - Introdução a Tableau 2020](https://www.eia.ai/introducao-a-tableau-2020-facil-e-simples) | [EIA](https://www.eia.ai/) | 5 horas   
 [Google Data Studio](https://www.pensarcursos.com.br/curso/data-studio) | [Pensar Cursos](https://www.pensarcursos.com.br/) | 60 horas  
 [Análise de Dados com ferramentas de Business Intelligence](https://www.tecpop.mg.gov.br/inicio/cursos/curso/3544/analise-de-dados-com-ferramentas-de-business-intelligence) | [Tecpop Minas](https://www.tecpop.mg.gov.br/inicio) | 60 horas   
